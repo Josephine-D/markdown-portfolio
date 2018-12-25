@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of galaxy](https://photojournal.jpl.nasa.gov/jpeg/PIA11999.jpg)
